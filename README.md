@@ -13,10 +13,11 @@ React Pizza is a sleek web app built with React, Redux, Tailwind, Redux-Toolkit,
 
 ##
 
-<img style="width:100%" src="/public/screenshots/1.png">
-<img style="width:100%" src="/public/screenshots/2.png">
-<img style="width:100%" src="/public/screenshots/3.png">
-<img style="width:100%" src="/public/screenshots/4.png">
+<img style="width:80%" src="/public/screenshots/1.png">
+<img style="width:80%" src="/public/screenshots/2.png">
+<img style="width:80%" src="/public/screenshots/3.png">
+<img style="width:80%" src="/public/screenshots/4.png">
+
 ##
 
 ## Tech & Tools
