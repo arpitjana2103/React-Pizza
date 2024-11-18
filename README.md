@@ -22,6 +22,7 @@ React Pizza is a sleek web app built with React, Redux, Tailwind, Redux-Toolkit,
 ##
 
 </div>
+
 ## Tech & Tools
 
 ![Tech Stack](https://skillicons.dev/icons?i=react,redux,tailwind)
